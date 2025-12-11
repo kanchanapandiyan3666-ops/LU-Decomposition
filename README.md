@@ -37,16 +37,16 @@ B=np.array(eval(input()))
 lu,piv=lu_factor(A)
 x=lu_solve((lu,piv),B)
 print(x)
-/*
-Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
-*/
+
 ```
 
 ## Output:
+<img width="1352" height="793" alt="Screenshot 2025-12-10 192904" src="https://github.com/user-attachments/assets/563a1752-f176-42cc-b2ef-2a417c7b8691" />
 <img width="1270" height="780" alt="Screenshot 2025-12-10 192922" src="https://github.com/user-attachments/assets/e4c0d0cc-2083-4156-a87e-f6458895cd0d" />
-<img width="1270" height="780" alt="Screenshot 2025-12-10 192922" src="https://github.com/user-attachments/assets/9a783c02-f713-4dc4-9e0e-359699296996" />
+<img width="1073" height="711" alt="Screenshot 2025-12-10 192949" src="https://github.com/user-attachments/assets/1b88148e-bd77-4d18-914a-2b99807e8f56" />
+<img width="1342" height="629" alt="Screenshot 2025-12-10 193002" src="https://github.com/user-attachments/assets/374ba94a-2582-442a-b8ef-08dd7a914a0b" />
+
+
 
 
 
